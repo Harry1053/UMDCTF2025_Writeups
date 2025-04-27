@@ -67,4 +67,4 @@ print(flag)
 `python solve.py`/`python3 solve.py` outputs the flag.
 
 ## Flag
-UMDCTF{r3v3R$E-i$_Th3_#B3ST#_4nT!-M@lW@r3_t3chN!Qu3}
+`UMDCTF{r3v3R$E-i$_Th3_#B3ST#_4nT!-M@lW@r3_t3chN!Qu3}`
