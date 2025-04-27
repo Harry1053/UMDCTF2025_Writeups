@@ -36,6 +36,8 @@ if (lVar1 == 0x34) {
    - The XOR key bytes (`BYTE_00402034`)
 
 Both of these were **manually obtained** by inspecting the Ghidra decompiler output.
+Obtained like seen in the picture below (one possible way):
+![Ghidra decompiler; copy special: bytes string](byte_strings.png)
 
 The `xor_key` bytes we recovered are:
 ```
@@ -50,7 +52,7 @@ The `encrypted flag` bytes were:
 3) Getting the flag:
 Given the ciphertext (encrypted flag) and the xor key, the flag is a simple decryption away:
 
-**script used** (also in the repo, ./solve.py)
+(script used is available below and in the repo, ./solve.py)
 
 ```py
 encrypted = bytes.fromhex("20 22 20 26 35 37 14 07 46 00 5A 17 44 35 52 0C 70 28 37 1C 5B 1D 70 16 76 50 69 5C 6E 6C 1B 12 54 69 2D 38 06 23 11 3D 2F 00 02 4A 68 45 3B 64 1A 20 55 05")
@@ -65,4 +67,4 @@ print(flag)
 `python solve.py`/`python3 solve.py` outputs the flag.
 
 ## Flag
-UMDCTF{r3v3R$E-i$_Th3_#B3ST#_4nT!-M@lW@r3_t3chN!Qu3}
+`UMDCTF{r3v3R$E-i$_Th3_#B3ST#_4nT!-M@lW@r3_t3chN!Qu3}`
