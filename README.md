@@ -1,14 +1,16 @@
 # UMDCTF2025_Writeups
+## CTF Team: "Ethical Empire"
+## Participants: [@username](https://github.com/GMDoggo); [@username](https://github.com/danictrm); Me([@username](https://github.com/Harry1053)) 
 
 # Challenges included in the writeup:
 
 ## OSINT
->Beauty. 
->The Master. 
->The Blueprint. 
->Sunshine. 
->Swag like Ohio. 
->Gerard-Manley-Hopkins (not finished)  
+>Beauty <br/>
+>The Master <br/>
+>The Blueprint <br/>
+>Sunshine <br/>
+>Swag like Ohio <br/>
+>Gerard-Manley-Hopkins (not finished) <br/>
 
 ## Reverse Engineering
->deobfudcation. 
+>deobfudcation <br/>
