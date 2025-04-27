@@ -16,7 +16,7 @@ By running any of those buildings through a reverse image lookup tool, we figure
 By browsing around in a map, we get a rough idea of where we are. Using google street view, we can get the exact position, form which the panorama was taken!
 
 ![Solved challenge](solved_beauty.jpg)
-In the top left, the name of the photographer is displayed!
+On the top left, the name of the photographer is displayed!
 
 Last step, formatting the flag:
 
