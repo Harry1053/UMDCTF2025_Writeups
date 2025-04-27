@@ -36,6 +36,8 @@ if (lVar1 == 0x34) {
    - The XOR key bytes (`BYTE_00402034`)
 
 Both of these were **manually obtained** by inspecting the Ghidra decompiler output.
+Obtained like seen in the picture below (one possible way):
+![Ghidra decompiler; copy special: bytes string](byte_strings.png)
 
 The `xor_key` bytes we recovered are:
 ```
