@@ -1,6 +1,6 @@
 # UMDCTF2025_Writeups
 ## CTF Team: "Ethical Empire"
-## Participants: [@username](https://github.com/GMDoggo); [@username](https://github.com/danictrm); Me([@username](https://github.com/Harry1053)) 
+## Participants: [@GMDoggo](https://github.com/GMDoggo); [@danictrm](https://github.com/danictrm); Me([@Harry1053](https://github.com/Harry1053)) 
 
 # Challenges included in the writeup:
 
